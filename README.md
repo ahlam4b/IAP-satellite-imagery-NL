@@ -1,0 +1,1 @@
+Masks are binary segmentation maps saved as single-channel PNGs. Although they appear entirely black when viewed directly, pixel values are either 0 (background) or 1 (invasive aquatic plant), so contrast needs to be stretched (e.g., ×255) to visualize them.
